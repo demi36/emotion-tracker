@@ -27,6 +27,6 @@
 		"webpack-cli": "^3.3.6"
 	},
 	"dependencies": {
-		"node-notifier": "^8.0.0"
+		"node-notifier": "^8.0.2"
 	}
 }
